@@ -16,8 +16,6 @@ public class MainActivity extends AppCompatActivity{
     @ViewInject(R.id.tv1)
     private TextView tv1;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
